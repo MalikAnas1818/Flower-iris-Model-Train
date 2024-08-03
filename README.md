@@ -1,4 +1,4 @@
-# Flower-iris-Model-Train
+# Machine Learning Exerices
 ## Exercise 1
 
 ### Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out accuracy of your model and use that to predict different samples in your test dataset. In iris dataset there are 150 samples containing following features,
